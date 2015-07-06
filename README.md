@@ -1,4 +1,4 @@
-# RetroRventBus
+# RetroEventBus
 
 An event bus for the Java Swing Framework.
 
